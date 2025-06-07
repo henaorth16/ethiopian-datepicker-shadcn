@@ -75,7 +75,8 @@ function App() {
 
 ## 🖼 Screenshot
 
-![Screenshot](https://user-images.githubusercontent.com/henaorth16/eth-datepicker-shadcn-screenshot.png)
+![Screenshot](./public/eth-datepicker-shadcn-screenshot2.png)
+
 
 ---
 
