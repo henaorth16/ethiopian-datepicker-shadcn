@@ -7,7 +7,7 @@ A modern, lightweight, and customizable Ethiopian calendar date picker built wit
 ⚡️ Fast and fully typed with TypeScript  
 📦 Easy to integrate in any React/Next.js app
 
-![ethiopian-datepicker-screenshot](https://user-images.githubusercontent.com/henaorth16/eth-datepicker-shadcn-screenshot.png)
+![ethiopian-datepicker-screenshot](./public/eth-datepicker-shadcn-screenshot.png)
 
 ---
 
